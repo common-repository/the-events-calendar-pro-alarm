@@ -1,0 +1,40 @@
+# Copyright (C) 2020 Andy Fragen
+# This file is distributed under the same license as the The Events Calendar PRO Alarm plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: The Events Calendar PRO Alarm 3.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/the-events-calendar-pro-alarm\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-08-01T17:54:52+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: the-events-calendar-pro-alarm\n"
+
+#. Plugin Name of the plugin
+msgid "The Events Calendar PRO Alarm"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://github.com/afragen/events-calendar-pro-alarm/"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin adds an alarm functionality to The Events Calendar PRO plugin by using the Additional Fields feature of Events Calendar PRO. This evolved from the following <a href=\"https://tri.be/support/forums/topic/add-alarm-to-event/\">Add Alarm to Event</a> forum discussion topic. The <a href=\"https://theeventscalendar.com/products/wordpress-events-calendar/\">Events Calendar PRO plugin</a> is required."
+msgstr ""
+
+#. Author of the plugin
+msgid "Andy Fragen"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://thefragens.com/2012/05/add-alarm-to-events-calendar-pro/"
+msgstr ""
+
+#. translators: 1: opening link tag to ECP 2: closing href tag
+#: src/ECP_Alarm/Bootstrap.php:34
+msgid "To begin using The Events Calendar PRO Alarm, please install the latest version of %1$sThe Events Calendar PRO%2$s"
+msgstr ""
